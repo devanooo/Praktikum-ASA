@@ -1,0 +1,26 @@
+# Executable
+a.out
+*.out
+
+# Windows executable
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+debug/
+release/
+
+# Mac system files
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Code::Blocks
+*.layout
+*.depend
